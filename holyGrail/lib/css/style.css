@@ -27,17 +27,21 @@ nav a:hover{
 
 /* PUT YOUR CSS HERE */
 .main_container{
-
+    height: 100vh;
 }
 
 .main_content_container{
-
+    display: flex;
 }
 
 .main_content{
-
+       padding-left: 26px;
+       padding-right: 26px;
+       color: #739273;
+       overflow-y: scroll;
 }
 
 .flex_padding{
-
+    width: 100vh;
+    background-color: pink;
 }
